@@ -25,6 +25,8 @@
 		021635FD2A606BA2009DFA5D /* RMCharacterListViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021635FC2A606BA2009DFA5D /* RMCharacterListViewViewModel.swift */; };
 		021635FF2A606CBC009DFA5D /* CharacterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021635FE2A606CBC009DFA5D /* CharacterListView.swift */; };
 		021636012A607124009DFA5D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021636002A607124009DFA5D /* Extensions.swift */; };
+		021636032A60ADD6009DFA5D /* RMCharacterCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021636022A60ADD6009DFA5D /* RMCharacterCollectionViewCell.swift */; };
+		021636052A60AFBA009DFA5D /* RMCharacterCollectionViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021636042A60AFBA009DFA5D /* RMCharacterCollectionViewCellViewModel.swift */; };
 		02CB5D6B2A603446000B5A1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CB5D6A2A603446000B5A1E /* AppDelegate.swift */; };
 		02CB5D6D2A603446000B5A1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CB5D6C2A603446000B5A1E /* SceneDelegate.swift */; };
 		02CB5D6F2A603446000B5A1E /* RMTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CB5D6E2A603446000B5A1E /* RMTabViewController.swift */; };
@@ -71,6 +73,8 @@
 		021635FC2A606BA2009DFA5D /* RMCharacterListViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterListViewViewModel.swift; sourceTree = "<group>"; };
 		021635FE2A606CBC009DFA5D /* CharacterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterListView.swift; sourceTree = "<group>"; };
 		021636002A607124009DFA5D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		021636022A60ADD6009DFA5D /* RMCharacterCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterCollectionViewCell.swift; sourceTree = "<group>"; };
+		021636042A60AFBA009DFA5D /* RMCharacterCollectionViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterCollectionViewCellViewModel.swift; sourceTree = "<group>"; };
 		02CB5D672A603446000B5A1E /* Rick&Morty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rick&Morty.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02CB5D6A2A603446000B5A1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02CB5D6C2A603446000B5A1E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				021635FE2A606CBC009DFA5D /* CharacterListView.swift */,
+				021636022A60ADD6009DFA5D /* RMCharacterCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -139,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				021635FC2A606BA2009DFA5D /* RMCharacterListViewViewModel.swift */,
+				021636042A60AFBA009DFA5D /* RMCharacterCollectionViewCellViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -397,6 +403,7 @@
 				02CB5D6F2A603446000B5A1E /* RMTabViewController.swift in Sources */,
 				021635E72A60387C009DFA5D /* RMEpisodeViewController.swift in Sources */,
 				02CB5D6B2A603446000B5A1E /* AppDelegate.swift in Sources */,
+				021636032A60ADD6009DFA5D /* RMCharacterCollectionViewCell.swift in Sources */,
 				021635EB2A60417C009DFA5D /* RMService.swift in Sources */,
 				021635FD2A606BA2009DFA5D /* RMCharacterListViewViewModel.swift in Sources */,
 				021635F32A605180009DFA5D /* RMLocation.swift in Sources */,
@@ -406,6 +413,7 @@
 				021635E92A603896009DFA5D /* RMSettingsViewController.swift in Sources */,
 				02CB5D6D2A603446000B5A1E /* SceneDelegate.swift in Sources */,
 				021635DE2A6037B2009DFA5D /* RMCharacter.swift in Sources */,
+				021636052A60AFBA009DFA5D /* RMCharacterCollectionViewCellViewModel.swift in Sources */,
 				021635ED2A6041B0009DFA5D /* RMRequest.swift in Sources */,
 				021635E32A603862009DFA5D /* RMCharacterViewController.swift in Sources */,
 				021635FB2A60685B009DFA5D /* RMGetAllCharactersResponse.swift in Sources */,

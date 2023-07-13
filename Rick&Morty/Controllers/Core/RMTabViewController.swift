@@ -9,7 +9,7 @@ import UIKit
 
 /// Controller to house tabs and root tab controllers
 final class RMTabBarController: UITabBarController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         setUpTabs()
@@ -46,7 +46,7 @@ final class RMTabBarController: UITabBarController {
         nav4.tabBarItem = UITabBarItem(title: "Settings",
                                        image: UIImage(systemName: "gear"),
                                        tag: 4)
-
+        
         
         for nav in [nav1, nav2, nav3, nav4] {
             nav.navigationBar.prefersLargeTitles = true
@@ -55,7 +55,7 @@ final class RMTabBarController: UITabBarController {
         
         setViewControllers([nav1, nav2, nav3, nav4], animated: true)
     }
-
-
+    
+    
 }
 

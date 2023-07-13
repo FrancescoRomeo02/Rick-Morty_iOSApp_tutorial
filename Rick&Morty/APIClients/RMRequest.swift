@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+/// Object that represents a singleton API Calll
+final class RMRequest{
+    
+}

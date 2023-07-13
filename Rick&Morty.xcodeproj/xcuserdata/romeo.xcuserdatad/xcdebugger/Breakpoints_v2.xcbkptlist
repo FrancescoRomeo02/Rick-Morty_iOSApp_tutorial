@@ -18,6 +18,38 @@
             endingLineNumber = "15"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E6A8F2C-A460-4207-8584-ADA4E9A940F4 - 2c998a443e8d44fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_Morty.RMTabBarController.viewDidLoad() -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romeo/Developer/SWIFT/Rick&amp;Morty/Rick&amp;Morty/Controllers/Core/RMTabViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5E6A8F2C-A460-4207-8584-ADA4E9A940F4 - 2c998a443e8d44fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rick_Morty.RMTabBarController.viewDidLoad() -&gt; ()"
+                  moduleName = "Rick&amp;Morty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/romeo/Developer/SWIFT/Rick&amp;Morty/Rick&amp;Morty/Controllers/Core/RMTabViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

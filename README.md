@@ -4,4 +4,4 @@ A first SWIFT App wrote following the video tutorial at this link (_link_) to ex
 # What I learned
 - How start SWIFT project.
 - How simulate iOS system on macOS.
-- Superficial introduction to backend and frontend SWIFT development.
+- Superficial introduction to backend and frontend in SWIFT development.

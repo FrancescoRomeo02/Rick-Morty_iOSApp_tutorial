@@ -1,3 +1,7 @@
-#Swift Rick & Morty App (tutorial)
+# Swift Rick & Morty App (tutorial)
+A first SWIFT App wrote following the video tutorial at this link (_link_) to experiment SWIFT coding language.
 
-First SWIFT App.
+# What I learned
+- How start SWIFT project.
+- How simulate iOS system on macOS.
+- Superficial introduction to backend and frontend SWIFT development.

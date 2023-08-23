@@ -9,5 +9,5 @@ A first SWIFT App wrote following the video tutorial at this link (_link_) to ex
 # Contact Me
 I'm thrilled to connect with fellow Swift enthusiasts and learners. Feel free to get in touch via:
 
-📧 Email: romeo.francesco.2002@gmail.com
-💼 LinkedIn: FrancescoRomeo [https://www.linkedin.com/in/FrancescoRomeo02/]
+- 📧 Email: romeo.francesco.2002@gmail.com
+- 💼 LinkedIn: [Francesco Romeo](https://www.linkedin.com/in/FrancescoRomeo02)
